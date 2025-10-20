@@ -1,7 +1,5 @@
 #windows 
 
-Source: https://github.com/kamrullab/WindowsCleanupCommands#windows-cleanup-commands-%EF%B8%8F
-
 A collection of **CMD** and **PowerShell** commands to clean leftover data, orphaned files, and registry entries that remain after software uninstallation, along with other useful maintenance commands.
 
 ---
